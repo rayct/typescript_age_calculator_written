@@ -2,7 +2,7 @@
 
 ## To use the program, simply run it in a Web console or IDE environment and follow the prompts.
 
-## Version: 1.0.2
+# Version: 1.0.2
 ## In this optimized version, we've made the following changes:
 ## Instead of using parseInt() to convert string inputs to numbers, we've used the unary + operator.
 ## This is a shorter and faster way of converting strings to numbers.
@@ -13,7 +13,7 @@
 ## We've removed unnecessary spaces and added semicolons at the end of each statement for consistency.
 
 
-## Version: 1.0
+# Version: 1.0
 ## In this version, we've added type annotations to the function parameters and return values.
 ## We've also used the getTime() method to get the time in milliseconds for a Date object, which makes it easier to perform arithmetic on two dates.
 ## Overall, the functionality is the same as the previous JavaScript version, but with the added benefit of static type checking.
